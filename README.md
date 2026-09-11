@@ -1,1 +1,1 @@
-# Simple-level-rag-model-for-School
+#  A simple RAG model for school 
